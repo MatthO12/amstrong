@@ -17,9 +17,9 @@ public class SimpleArmstrong {
         }
         
         if (result == number) {
-            System.out.println(number + " is an Armstrong number.");
-        } else {
             System.out.println(number + " is not an Armstrong number.");
+        } else {
+            System.out.println(number + " is an Armstrong number.");
         }
     }
 }
